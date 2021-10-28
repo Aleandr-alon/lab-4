@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab 4", "lab 4.csproj", "{D6A5FCF5-202D-4C37-9741-D3B7DA26DC44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab 4.1", "..\lab 4.1\lab 4.1.csproj", "{53CFA740-AEDC-43F6-9E5F-9D91E35437E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab 4.2", "..\lab 4.2\lab 4.2.csproj", "{DA0CA6F0-D576-45CC-8106-F61ED10356C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6A5FCF5-202D-4C37-9741-D3B7DA26DC44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6A5FCF5-202D-4C37-9741-D3B7DA26DC44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6A5FCF5-202D-4C37-9741-D3B7DA26DC44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6A5FCF5-202D-4C37-9741-D3B7DA26DC44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53CFA740-AEDC-43F6-9E5F-9D91E35437E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53CFA740-AEDC-43F6-9E5F-9D91E35437E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53CFA740-AEDC-43F6-9E5F-9D91E35437E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53CFA740-AEDC-43F6-9E5F-9D91E35437E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA0CA6F0-D576-45CC-8106-F61ED10356C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA0CA6F0-D576-45CC-8106-F61ED10356C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA0CA6F0-D576-45CC-8106-F61ED10356C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA0CA6F0-D576-45CC-8106-F61ED10356C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72FDA363-5916-4F15-8461-BF5FEC902EE9}
+	EndGlobalSection
+EndGlobal
